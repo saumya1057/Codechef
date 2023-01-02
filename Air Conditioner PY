@@ -1,0 +1,10 @@
+There are three people sitting in a room - Alice, Bob, and Charlie. They need to decide on the temperature to set on the air conditioner. Everyone has a demand each:
+
+Alice wants the temperature to be at least AA degrees.
+Bob wants the temperature to be at most BB degrees.
+Charlie wants the temperature to be at least CC degrees.
+Can they all agree on some temperature, or not?
+
+Input Format
+The first line of input will contain a single integer TT, denoting the number of test cases.
+Each test case consists of a single line which contains three integers - A, B, CA,B,C
